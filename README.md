@@ -1,2 +1,2 @@
-# Projetos-CSharp 
-Neste repositorio coloco meus projetos desnvolvidos em C#
+# Projetos-CShrp 
+Neste repositorio coloco meus projetos desenvolvidos em C#.
